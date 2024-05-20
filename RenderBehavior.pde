@@ -1,0 +1,3 @@
+interface RenderBehavior {
+  void render();
+}
